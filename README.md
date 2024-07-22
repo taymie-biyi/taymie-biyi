@@ -16,10 +16,10 @@ I'm a passionate and dedicated cybersecurity enthusiast, currently enrolled in t
 
 ### Certifications
 - **CompTIA Security+**
-- **AWS Certified Cloud Practitioner**
+- **AWS Certified Cloud Practitioner** (in progress)
 - **AWS Certified Security – Specialty** *(in progress)*
 - **Microsoft Certified: Azure Security Engineer Associate** *(in progress)*
-- **Google Cloud Professional Cloud Security Engineer** *(planned)*
+- **Google Cloud Professional Cloud Security Engineer** *(in progress)*
 
 ## 📚 Education
 
